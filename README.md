@@ -1,24 +1,23 @@
-# RAZZYx
+<!DOCTYPE html>
+<html>
+<head>
+  <title>RAZZYx Portfolio</title>
+</head>
+<body>
+  <h1>RAZZYx</h1>
+  <p><strong>Ecosystem Strategist | Web3 Growth | Community Builder</strong></p>
 
-**Ecosystem Strategist | Project Manager | Web3 Growth**
+  <h2>Proof of Work</h2>
+  <ul>
+    <li>Swiv – Strategy & Community</li>
+    <li>FlashBlock – Server + Community Ops</li>
+    <li>t0ns – Community Growth Lead</li>
+    <li>Analyzer – Content & Strategy</li>
+    <li>CryptoSky – Ecosystem Analysis</li>
+  </ul>
 
----
-
-## 👋 About Me
-I’m RAZZYx, an ecosystem strategist focused on building, scaling, and managing Web3 projects.  
-I work across strategy, partnerships, and community growth — helping projects go from idea to ecosystem.  
-
----
-
-## 🚀 Proof of Work
-- **Swiv** – Ecosystem & Community strategy  
-- **FlashBlock** – Server structure + community ops  
-- **t0ns** – Community growth & engagement lead  
-- **Analyzer** – Content strategist (Twitter threads + messaging)  
-- **CryptoSky** – Community positioning & ecosystem analysis  
-
----
-
-## 📬 Contact
-- Discord: `@razzy_ox`  
-- X (Twitter): [@Razzyox](https://x.com/Razzyox)
+  <h2>Contact</h2>
+  <p>Discord: @razzy_ox</p>
+  <p>Twitter: <a href="https://x.com/Razzyox">@Razzyox</a></p>
+</body>
+</html>
